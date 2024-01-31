@@ -1,11 +1,11 @@
-import pandas as pd
+Assignment3_pybasic8900073eeda5ed165bd768cf6a5459dbimport pandas as pd
 import requests
 
 # 高德地图API的基础URL
 AMAP_URL = "https://restapi.amap.com/v3/place/text"
 
 # 高德地图API密钥
-AMAP_KEY = "45aff143c80be095aa0b05b0bb7b606a"
+AMAP_KEY = "8900073eeda5ed165bd768cf6a5459db"
 
 # 从Excel文件中读取大学名单
 def read_university_list(file_path):
